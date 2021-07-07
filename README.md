@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-##A bit of me:
+A bit of me:
 
 - 🔭 I'm currently working on several projects at the company I work
 - 🌱 I'm currently learning php and flutter
