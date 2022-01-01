@@ -10,9 +10,9 @@ A bit of me:
 Currently my stack is: 
 
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
-:computer: Web front-end development with **ReactJs** <br/>
-:satellite: API with **NodeJs** <br/>
-:floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL**, **WatermelonDB** <br/>
+:computer: Desktop development with **C#**, **VB.Net** and mobile development with **Xamarin**, **React** <br/>
+:satellite: API with **NodeJs**, **ASP.NET** <br/>
+:floppy_disk: Database: **Postgres (Cloud)**, **Firebase (Cloud)**, **SQL Server (Cloud)**, **MySQL**<br/>
 
 
 The technologies I currently use are:: 
