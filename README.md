@@ -9,8 +9,8 @@ A bit of me:
 
 Currently my stack is: 
 
-:iphone: Mobile applications for Android and iOS with **React Native** <br/> 
-:computer: Desktop development with **C#**, **VB.Net** and mobile development with **Xamarin**, **React** <br/>
+:iphone: Mobile applications for Android and iOS with **React Native**, **Xamarin**, **Java** <br/> 
+:computer: Desktop development with **C#**, **VB.Net**, **Delphi** <br/>
 :satellite: API with **NodeJs**, **ASP.NET** <br/>
 :floppy_disk: Database: **Postgres (Cloud)**, **Firebase (Cloud)**, **SQL Server (Cloud)**, **MySQL**<br/>
 
