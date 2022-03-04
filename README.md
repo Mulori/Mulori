@@ -1,7 +1,7 @@
 #### Hi there 👋
 
 
-Currently my stack is: 
+##Currently my stack is: 
 
 :iphone: Mobile applications for Android and iOS with **React Native**, **Xamarin**, **Java** <br/> 
 :computer: Desktop development with **C#**, **VB.Net**, **Delphi** <br/>
@@ -15,7 +15,7 @@ Currently my stack is:
 </div>
   
   
-The technologies I currently use are:: 
+##The technologies I currently use are:: 
 
 <p>
 <img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
