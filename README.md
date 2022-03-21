@@ -44,7 +44,7 @@
  &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="35px" />  
  &nbsp;
-<img src="https://img2.gratispng.com/20180326/ohe/kisspng-microsoft-visual-studio-visual-basic-computer-soft-studio-5ab9ba394fa770.9401064515221212733263.jpg" height="35px" />   
+<img src="https://img2.gratispng.com/20180806/pla/kisspng-visual-studio-2010-d%C3%A9veloppez-pour-le-web-avec-c-inicio-resyst-softwares-5b6887f22b0353.2037366115335772021762.jpg" height="35px" />   
 </p>
 
 
