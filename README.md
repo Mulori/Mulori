@@ -18,7 +18,7 @@
 ## The technologies I currently use are:: 
 
 <p>
-<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
+<img src="https://cdn-icons-png.flaticon.com/512/518/518705.png" height="35px"/>
 &nbsp;
 <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
 &nbsp;  
