@@ -41,6 +41,10 @@
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
 &nbsp;
 <img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />   
+ &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="35px" />  
+ &nbsp;
+<img src="https://img2.gratispng.com/20180326/ohe/kisspng-microsoft-visual-studio-visual-basic-computer-soft-studio-5ab9ba394fa770.9401064515221212733263.jpg" height="35px" />   
 </p>
 
 
