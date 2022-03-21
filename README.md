@@ -6,7 +6,7 @@
 :iphone: Mobile applications for Android and iOS with **React Native**, **Xamarin**, **Java** <br/> 
 :computer: Desktop development with **C#**, **VB.Net**, **Delphi** <br/>
 :satellite: API with **NodeJs**, **ASP.NET** <br/>
-:floppy_disk: Database: **Postgres (Cloud)**, **Firebase (Cloud)**, **SQL Server (Cloud)**, **MySQL**<br/>
+:floppy_disk: Database: **Postgres**, **Firebase**, **SQL Server**, **MySQL**<br/>
 
 <div align="center">
   <a href="https://github.com/mulori">
