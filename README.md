@@ -24,7 +24,7 @@
 &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
 &nbsp;  
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="35px"/> 
 &nbsp;
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
 &nbsp;
@@ -34,7 +34,7 @@
 &nbsp;  
 <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
 &nbsp;  
-<img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
+<img src="https://www.goodinfonet.com/uploads/news/goodinfonet_photoshop_to_earn_money_1597318109_0.jpg" height="35px" />    
 &nbsp;
 <img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="35px" />   
 &nbsp;
