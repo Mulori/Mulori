@@ -4,8 +4,9 @@
 ## Currently my stack is: 
 
 :iphone: Mobile applications for Android and iOS with **React Native** and **Xamarin** <br/> 
-:computer: Desktop development with **C#**, **VB.Net**, **Delphi** <br/>
+🖥️: Desktop development with **C#**, **VB.Net**, **Delphi** <br/>
 :satellite: API with **Node**, **ASP.NET** <br/>
+💻: Web with **PHP**, **HTML**, **CSS**, **Bootstrap** <br/>
 :floppy_disk: Database: **PostgreSQL**, **Firebase**, **SQL Server**, **MySQL**<br/>
 
 <div align="center">
