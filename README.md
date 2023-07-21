@@ -52,5 +52,5 @@
 </p>
 
 
-contact me:
+follow me:
 @murilogarcia23
