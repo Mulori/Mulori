@@ -9,11 +9,6 @@
 💻: Web with **PHP**, **Javascript**, **React**, **HTML**, **CSS**, **Bootstrap** <br/>
 :floppy_disk: Database: **PostgreSQL**, **Firebase**, **SQL Server**, **MySQL**<br/>
 
-<div align="center">
-  <p></p>
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulori&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
   
 ## The technologies I currently use are:: 
 
