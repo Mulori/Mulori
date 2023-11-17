@@ -6,7 +6,7 @@
 :iphone: Mobile applications for Android and iOS with **React Native** and **Xamarin** <br/> 
 🖥️: Desktop development with **C#**, **VB6**, **VB.Net**, **Electron** <br/>
 :satellite: API with **Node**, **ASP.NET**, **PHP** <br/>
-💻: Web with **PHP**, **Laravel**, **Javascript**, **ReactJS**, ***NextJS*, **HTML**, **CSS**, **Bootstrap** <br/>
+💻: Web with **PHP**, **Laravel**, **Javascript**, **ReactJS**, **NextJS*, **HTML**, **CSS**, **Bootstrap** <br/>
 :floppy_disk: Database: **PostgreSQL**, **Firebase**, **SQL Server**, **MySQL**<br/>
 
   
