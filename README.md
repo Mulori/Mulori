@@ -1,4 +1,4 @@
-#### <h1>Hi there 👋</h1>
+#### <h1>Hi👋</h1>
 
 
 ## Currently my stack is: 
